@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I am a software developer, entrepreneur and private programming and database teacher, I have worked with software development for over 5 years with a focus on developing desktop management systems and web applications.
+<p align="left">I am a software developer, entrepreneur and private programming and database teacher, I have been working with software development for a few years with a focus on developing desktop management systems and web applications.
 </p>
 <p><strong>Spring Framework</strong> | <strong>.Net Framework</strong><!--| <strong>Laravel</strong>--></p>
 
