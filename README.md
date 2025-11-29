@@ -19,9 +19,22 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I am a software developer, entrepreneur and private programming and database teacher, I have been working with software development for a few years with a focus on developing desktop management systems and web applications.
+<!-- <p align="left">I am a software developer, entrepreneur and private programming and database teacher, I have been working with software development for a few years with a focus on developing desktop management systems and web applications.
 </p>
-<p><strong>Spring Framework</strong> | <strong>.Net Framework</strong><!--| <strong>Laravel</strong>--></p>
+<p><strong>Spring Framework</strong> | <strong>.Net Framework</strong></p> -->
+
+I'm a **Software Developer**, specializing in creating high-performance digital solutions, focusing on **efficiency, security, and scalability**.<br>
+I work on developing **enterprise systems**, **web platforms**, and **custom integrations**, combining technology and strategy to generate concrete results.
+
+<!-- --- -->
+
+### Specialization
+
+- Development of **corporate systems** (ERP, CRM, E-commerce)
+- Architecture and implementation of **RESTful APIs**
+- Integration of services and automation of business processes
+- Development of **responsive and optimized front-end**
+- Modeling and management of **relational databases**
 
 ###
 
@@ -37,7 +50,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">I code with</h2>
+### Tools
 
 ###
 
